@@ -28,9 +28,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amirsohly/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:soheilyamirreza@yahoo.com)
 
----  
+ 
 **Fun Fact:** Holds 6+ certs (IELTS 6, Deep Learning, CEH) and speaks 3 languages! 🌍  
-```  
 
 ### **Key Improvements:**  
 1. **Structured Tech Stack:** Grouped skills into categories (AI/ML, Web, etc.) for readability.  
@@ -38,12 +37,3 @@
 3. **Teaching Highlight:** Emphasized your mentorship role—rare and valuable!  
 4. **Badges for Links:** Professional touch (copy-paste the Markdown code).  
 5. **Fun Fact:** Showcases certs/languages without overcrowding.  
-
-### **GitHub-ified Version (Short & Sweet):**  
-```markdown
-AI/ML Master's @ UniMessina | Python & PyTorch | Ex-Lecturer  
-🔗 [LinkedIn](linkedin.com/in/amiraohy/) | ✉️ scheilyamirreza@yahoo.com  
-```  
-
-**Need tweaks?** More technical? Add humor? Let me know! 🛠️
-
