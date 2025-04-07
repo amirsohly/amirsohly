@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 ### 👋 Hi, I’m Amirreza 👨‍💻
 
 **📍Master's of Engineering in Computer Science Student** @ University of Messina | **Ex-Lecturer & Developer**  
