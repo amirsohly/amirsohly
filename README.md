@@ -1,58 +1,36 @@
 <!--  -->
-### **Hey, I'm Amirreza** 👨‍💻  
-
-📍 **Master's of Engineering in Computer Science ** @ UniMessina, Italy  
-🔍 **Focus:** AI, DL, and building stuff that matters  
-🚀 **Code:** Python | TensorFlow/PyTorch | Vue.js | 
-
-#### **🌱 Current Projects**  
-- Working on cool AI models (CV/NLP)  
-- Open-sourcing some uni research code soon  
-
-#### **💼 Previously**  
-- Did [X] at [Y]   
-- Built [Project Name] 
-
-#### **📬 Find Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amirsohly/)  
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:soheilyamirreza@yahoo.com)  
-
-
-**Here’s an optimized GitHub profile based on your CV, focusing on clarity, tech relevance, and GitHub’s minimalist style:**  
-
 ---  
-
-```markdown
-### 👋 Hi, I’m Amirreza Soheili Arasi  
+### 👋 Hi, I’m Amirreza 👨‍💻
 **AI/ML Master's Student** @ University of Messina | **Ex-Lecturer & Developer**  
+📍 **Master's of Engineering in Computer Science ** @ UniMessina, Italy 
+
+🔍 **Focus:** AI, DL, and building stuff that matters
 
 🔧 **Tech Stack:**  
-```python
+
 - Languages: Python, C/C++, Java, PHP, JavaScript  
-- AI/ML: TensorFlow, PyTorch, NLP (ChatGPT/Sentiment Analysis), Computer Vision  
-- Web: Django, Vue.js, WordPress, HTML/CSS  
-- DevOps: Docker, MySQL/MongoDB, CI/CD  
-- Other: IOT, CEH, CCNA  
-```
+- AI/ML: TensorFlow, PyTorch, NLP (ChatGPT/Sentiment Analysis), Computer Vision
+- Web: Django, Vue.js, WordPress, HTML/CSS
+- DevOps: Docker, MySQL/MongoDB, CI/CD
+- Other: IOT, CEH, CCNA
 
-🚀 **Recent Projects:**  
-- **ChatGPT ChatBot** (NLP) - [GitHub](github.com/amiraohy)  
-- **Traffic Signs Detection** (CV) - [GitHub](github.com/amiraohy)  
-- **IOT Lighting Control** (Time Series Forecasting) - [GitHub](github.com/amiraohy)  
 
-📚 **Teaching:**  
-- Lecturer (Programming/WordPress, 2023-2024)  
-- TA for 100+ students in *Basics of Programming*  
+🚀 **Recent Projects:**
+- **ChatGPT ChatBot** (NLP) - [GitHub](github.com/amiraohy)
+- **Traffic Signs Detection** (CV) - [GitHub](github.com/amiraohy)
+- **IOT Lighting Control** (Time Series Forecasting) - [GitHub](github.com/amiraohy)
 
-📫 **Reach Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/amiraohy/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:scheilyamirreza@yahoo.com)  
+📚 **Teaching:**
+- Lecturer (Programming/WordPress, 2023-2024)
+- TA for 100+ students in *Basics of Programming*
+
+#### **📬 Find Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amirsohly/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:soheilyamirreza@yahoo.com)
 
 ---  
 **Fun Fact:** Holds 6+ certs (IELTS 6, Deep Learning, CEH) and speaks 3 languages! 🌍  
 ```  
-
----  
 
 ### **Key Improvements:**  
 1. **Structured Tech Stack:** Grouped skills into categories (AI/ML, Web, etc.) for readability.  
