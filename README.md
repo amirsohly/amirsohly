@@ -12,8 +12,8 @@
 - **ChatGPT ChatBot** (+ PDF uploading) | [GitHub](https://github.com/amirsohly/ChatGPT-ChatBot)
 - **Summarizer** (PDF & News) | [GitHub](https://github.com/amirsohly/Summarizer))
 - **Time Series Analysis & Forecasting In Lighting Control System** | [GitHub](https://github.com/amirsohly/Time-Series-Analysis-And-Forecasting-In-Lighting-Control-System)
-- **Traffic Signs Detection** (CV) | [GitHub](github.com/amiraohy)
-- **IOT Lighting Control** (Time Series Forecasting) | [GitHub](github.com/amiraohy)
+- **Traffic Signs Detection** (CV) | [GitHub](https://github.com/amirsohly/Traffic-Signs-Detection)
+- **IOT Lighting Control** (Time Series Forecasting) | [GitHub](https://github.com/amirsohly/IOT-based-lighting-system)
 
 ## 📚 Teaching:
 - Lecturer (Programming/WordPress, 2023-2024)
