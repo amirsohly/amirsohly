@@ -22,7 +22,6 @@
 ## 📬 Find Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirsohly)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirsohly) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amirsohly/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:soheilyamirreza@yahoo.com)
 
 <!--## 
@@ -37,6 +36,7 @@
 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amirsohly)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirsohly) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amirsohly/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:soheilyamirreza@yahoo.com)-->
 
 
