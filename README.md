@@ -1,8 +1,8 @@
 <!--  -->
 ---  
 ### 👋 Hi, I’m Amirreza 👨‍💻
-**AI/ML Master's Student** @ University of Messina | **Ex-Lecturer & Developer**  
-📍 **Master's of Engineering in Computer Science ** @ UniMessina, Italy 
+
+**📍Master's of Engineering in Computer Science Student** @ University of Messina | **Ex-Lecturer & Developer**  
 
 🔍 **Focus:** AI, DL, and building stuff that matters
 
