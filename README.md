@@ -9,6 +9,7 @@
 
 
 ## 🚀 Recent Projects:
+- **IIOT Automated Guided Vehicle Using ROS2** | [GitHub](https://github.com/amirsohly/IIOT-Automated-Guided-Vehicle-Using-ROS2)
 - **ChatGPT ChatBot** (+ PDF uploading) | [GitHub](https://github.com/amirsohly/ChatGPT-ChatBot)
 - **Summarizer** (PDF & News) | [GitHub](https://github.com/amirsohly/Summarizer))
 - **Time Series Analysis & Forecasting In Lighting Control System** | [GitHub](https://github.com/amirsohly/Time-Series-Analysis-And-Forecasting-In-Lighting-Control-System)
