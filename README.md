@@ -9,6 +9,7 @@
 
 
 ## 🚀 Recent Projects:
+- **Distributed Architecture for Smart Irrigation and Fertigation** | [GitHub](https://github.com/amirsohly/Distributed-Architecture-for-Smart-Irrigation-and-Fertigation)
 - **IIOT Automated Guided Vehicle Using ROS2** | [GitHub](https://github.com/amirsohly/IIOT-Automated-Guided-Vehicle-Using-ROS2)
 - **ChatGPT ChatBot** (+ PDF uploading) | [GitHub](https://github.com/amirsohly/ChatGPT-ChatBot)
 - **Summarizer** (PDF & News) | [GitHub](https://github.com/amirsohly/Summarizer))
